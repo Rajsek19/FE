@@ -1,6 +1,6 @@
 # file-uploader
 
-Uplods the cvs file and display the data in a Table Format.
+Uploads the cvs file and display the data in a Table Format.
 
 Language - Angular 7, Angular material, Flex
 
