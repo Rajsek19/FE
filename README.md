@@ -1,12 +1,13 @@
 # file-uploader
 
-Uplod the issues.cvs file to get the data displayed in Table Format.
+Uplods the cvs file and display the data in a Table Format.
 
-Language - Angular 7, Angular material
+Language - Angular 7, Angular material, Flex
+
 # file-upload-server
 
 npm install to get the node modules [dependency lib]
-npm start to start the server.  its an observer once you upload from the cient it reads the file and give the data.
+npm start to start the server.  Its an observer once you upload from the cient it reads the file and give the data through service.
 
 # file-upload-client
 
@@ -16,11 +17,11 @@ ng serve to launch the application.
 
 Steps ---
 press Add file button to add the csv file 
-Upload to get the data in a tabular format
+Upload to get the data in a tabular format [from service]
 
 
 Pending Items....
 
-Progress bar
+Progress bar [with percentage]
 Error Dialog
 CSS Work
